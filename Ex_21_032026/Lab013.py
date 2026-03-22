@@ -47,3 +47,4 @@ print(mylist)
 
 new_lst = mylist.copy()
 print(new_lst)
+
