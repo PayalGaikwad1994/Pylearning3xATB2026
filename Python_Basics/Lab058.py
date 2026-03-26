@@ -1,0 +1,8 @@
+t1 = (1, 2)
+t2 = ("Chima", "Piha")
+t = (t1, t2)
+print(t)
+print(type(t))
+print(t[0])
+print(t[1])
+print(t[1][1])
