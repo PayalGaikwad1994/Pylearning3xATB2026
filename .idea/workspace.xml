@@ -126,6 +126,13 @@
     "Python.Lab080.executor": "Run",
     "Python.Lab081.executor": "Run",
     "Python.Lab082.executor": "Run",
+    "Python.Lab083.executor": "Run",
+    "Python.Lab084.executor": "Run",
+    "Python.Lab085.executor": "Run",
+    "Python.Lab086.executor": "Run",
+    "Python.Lab087.executor": "Run",
+    "Python.Lab088.executor": "Run",
+    "Python.Lab089.executor": "Run",
     "Python.lab047.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -161,7 +168,7 @@
       <workItem from="1774548663575" duration="2792000" />
       <workItem from="1774713665782" duration="1189000" />
       <workItem from="1774808718632" duration="3819000" />
-      <workItem from="1774888357904" duration="9180000" />
+      <workItem from="1774888357904" duration="12983000" />
     </task>
     <task id="LOCAL-00001" summary="Practicing Python">
       <option name="closed" value="true" />
@@ -267,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774890691063</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="adding new files">
+      <option name="closed" value="true" />
+      <created>1774902093748</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1774902093748</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +311,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab080.coverage" NAME="Lab080 Coverage Results" MODIFIED="1774898041848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab083.coverage" NAME="Lab083 Coverage Results" MODIFIED="1774902013885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab074.coverage" NAME="Lab074 Coverage Results" MODIFIED="1774817777562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab089.coverage" NAME="Lab089 Coverage Results" MODIFIED="1774905059104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab022.coverage" NAME="Lab022 Coverage Results" MODIFIED="1774210229177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab016.coverage" NAME="Lab016 Coverage Results" MODIFIED="1774206839086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab025.coverage" NAME="Lab025 Coverage Results" MODIFIED="1774211896074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
@@ -319,8 +336,10 @@
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab061.coverage" NAME="Lab061 Coverage Results" MODIFIED="1774466053269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basics" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab076.coverage" NAME="Lab076 Coverage Results" MODIFIED="1774889474410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab020.coverage" NAME="Lab020 Coverage Results" MODIFIED="1774207382196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
+    <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab084.coverage" NAME="Lab084 Coverage Results" MODIFIED="1774903399731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab029.coverage" NAME="Lab029 Coverage Results" MODIFIED="1774212932533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab012.coverage" NAME="Lab012 Coverage Results" MODIFIED="1774206756279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
+    <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab088.coverage" NAME="Lab088 Coverage Results" MODIFIED="1774904809484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab006.coverage" NAME="Lab006 Coverage Results" MODIFIED="1774048820629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab059.coverage" NAME="Lab059 Coverage Results" MODIFIED="1774454015695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basics" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab072.coverage" NAME="Lab072 Coverage Results" MODIFIED="1774714057470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
@@ -347,9 +366,11 @@
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab014.coverage" NAME="Lab014 Coverage Results" MODIFIED="1774206716921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab011.coverage" NAME="Lab011 Coverage Results" MODIFIED="1774122854826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab082.coverage" NAME="Lab082 Coverage Results" MODIFIED="1774901245396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab085.coverage" NAME="Lab085 Coverage Results" MODIFIED="1774904063990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab078.coverage" NAME="Lab078 Coverage Results" MODIFIED="1774890365612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab005.coverage" NAME="Lab005 Coverage Results" MODIFIED="1774048535528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab023.coverage" NAME="Lab023 Coverage Results" MODIFIED="1774210934849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
+    <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab087.coverage" NAME="Lab087 Coverage Results" MODIFIED="1774904744046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab026.coverage" NAME="Lab026 Coverage Results" MODIFIED="1774212076336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab008.coverage" NAME="Lab008 Coverage Results" MODIFIED="1774118228658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab017.coverage" NAME="Lab017 Coverage Results" MODIFIED="1774206883288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
@@ -377,6 +398,7 @@
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab068.coverage" NAME="Lab068 Coverage Results" MODIFIED="1774471662206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab010.coverage" NAME="Lab010 Coverage Results" MODIFIED="1774121967662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab045.coverage" NAME="Lab045 Coverage Results" MODIFIED="1774297982827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_Exercises" />
+    <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab086.coverage" NAME="Lab086 Coverage Results" MODIFIED="1774904372490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Pylearning3xATB2026$Lab004.coverage" NAME="Lab004 Coverage Results" MODIFIED="1774047797525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex_21_032026" />
   </component>
 </project>
