@@ -14,7 +14,7 @@ class Car:
        print("Private Method")
 
     def printName(self):
-        self.privateMethod()
+        self.__privateMethod()
         if self.__private_var=="1234":
             print("Private variable accesses")
         print("I am allowed to Picnic")
@@ -23,3 +23,4 @@ class Car:
 alto=Car()
 print(alto.name)
 print(alto.public_var)
+alto.printName()
